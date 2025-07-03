@@ -132,10 +132,3 @@ BASE_URL = "https://your-supabase-link"
 ```
 
 Everything else is auto-managed. Go build that scraper empire 🚀
-
-```
-
----
-
-Let me know if you want a version that **auto-uploads images to Supabase too** with API keys and everything. That’d be 🔥 next level.
-```
